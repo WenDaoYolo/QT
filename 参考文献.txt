@@ -1,0 +1,20 @@
+[1] 张帅峰, 周昕, 刘继兴, 等. 基于TCP服务器的并发方案[J]. 科技创新与应用, 2022(24): 18-21. 
+[2] 胡舒席, 付麦霞, 李永锋, 等. 基于Linux系统的高并发HTTP服务器设计[J]. 现代信息科技, 2022, 6(23): 90-94. 
+[3] 韩国福, 李琳. 基于Qt高并发的TCP通信机制设计[J]. 青海师范大学学报(自然科学版), 2025, 41(03): 108-112. 
+[4] 王铮. 即时通信系统的设计研究[J]. 信息与电脑(理论版), 2023(18). 
+[5] 赵晟. 基于XMPP协议的即时通信系统设计和实现[J]. 信息记录材料, 2023, 23(10): 88-90. 
+[6] 李述兴. 大语言模型驱动的智能体应用与挑战[J]. 科技视界, 2024(22). 
+[7]赵蒙蒙, 方周, 陈叶能等. 大模型与人工坐席在智能客服中的协同应用——构建高效和谐的服务生态[J]. 数字技术与应用, 2025(01). 
+[8] 张玉晨, 王传涛, 夏海梁, 等. 基于大语言模型的医疗智能助手应用研究进展[J]. 协和医学杂志, 2025, 16(6). 
+[9] 张丹, 李云杰等. 基于本地化部署大模型与RAG技术的高校智能问答系统研究与实践[J]. 深圳职业技术大学学报, 2025, 24(04): 94-100. 
+[10] 王林春, 肖卓宇等. 从被动检索到主动认知：高校AI辅导员架构实证研究[J]. 湖南工业职业技术学院学报, 2026, 26(03): 18-24. 
+[11] 郑超, 余中杰. 基于大模型知识服务应用平台的设计与实现[J]. 东北电力技术, 2026, 47(07): 58-62. 
+[12] 任海玉, 刘建平, 王健, 等. 基于大语言模型的智能问答系统研究综述[J]. 计算机工程与应用, 2025(7): 1-24. 
+[13] 文森, 钱力, 胡懋地, 等. 基于大语言模型的问答技术研究进展综述[J]. 数据分析与知识发现, 2024(6): 16-29. 
+[14] 鞠炜刚, 汪鹏, 王佳. 基于大语言模型和RAG的持续交付智能问答系统[J]. 计算机技术与发展, 2025(2): 107-114. 
+[15] 谢中华, 黄卓霖. DeepSeek驱动的智能电商客户服务系统[J]. 福建电脑, 2025(12). 
+[1] FARNAZ A, HUYCK C. TravQuery: A customer support chatbot based on retrieval augmented generation (RAG)[C]. Artificial Intelligence XLII, 2025.
+[2] ZHOU J, ZHANG Q, ZHANG F, YUAN C. Enhancing Troubleshooting Task-Oriented Dialog Systems with Large Language Models[C]. Intelligent Robotics and Applications, Part VI, 2025: 328-338.
+[3] LI J, SONG S, LI Y, ZHANG H, HU G. Advanced dialog state tracking with noetic graphs for complex human-machine interactions[J]. Pattern Recognition, 2025, 168: 1-12.
+[4] ORUCHE R, MILMAN E, LEMUS ALARCON M. Chatbot Dialog Design for Improved Human Performance in Domain Knowledge Discovery[J]. IEEE Transactions on Human-Machine Systems, 2025, 55(2): 207-222.
+[5] WANG H, WEI J, YAN T, QIANG L, LI H. Study and Optimization of Server Load Capacity in High Concurrency Scenarios[J]. International Journal of Advanced Network, Monitoring and Controls, 2025: 62-81.

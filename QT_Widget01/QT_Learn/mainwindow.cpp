@@ -24,10 +24,10 @@ void MainWindow::PopHint()
 MainWindow::MainWindow(QWidget* parent):QMainWindow(parent)
 {
     //1.
-    setWindowTitle("Calculate V1.0");                                                      //窗口标题
-    resize(700,200);                                                                                //窗口的默认大小(可调整)
-    this->setFixedSize(700,200);                                                             //窗口的默认大小(最大化、宽高不可调整，优先级更高)
-    this->setStyleSheet("color:white;");                                                  //设置窗口中全局部件的样式(类 css机制语法，文本色)
+    setWindowTitle("Calculate V1.0");                                                               //窗口标题
+    resize(700,200);                                                                                         //窗口的默认大小(可调整)
+    this->setFixedSize(700,200);                                                                      //窗口的默认大小(最大化、宽高不可调整，优先级更高)
+    this->setStyleSheet("color:white;");                                                           //设置窗口中全局部件的样式(类 css机制语法，文本色)
 
     //2.
     QPushButton* b1=new QPushButton("Click me by one",this);
